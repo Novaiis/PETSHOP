@@ -4,7 +4,7 @@ Esse é um projeto de faculdade, matéria Linguagem técnica de programação or
 # Descrição
 Um programa simples onde você seleciona o serviço e ele faz a somatoria de todos feitos e mostra a você ainda na mesma tela, também mostrando o valor do serviço cadastrado no momento.
 
-# Ilustração:
+# Ilustração
 
 ![petshop_desk_image](https://user-images.githubusercontent.com/67906243/190235201-894f4ea3-a4e2-464c-9e1c-34d2cd1c71e8.png)
 
